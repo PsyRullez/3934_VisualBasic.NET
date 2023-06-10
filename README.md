@@ -31,4 +31,4 @@ Este repositório está licenciado sob a licença [MIT](LICENSE). Sinta-se à vo
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato [inserir suas informações de contato aqui].
+Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato.
