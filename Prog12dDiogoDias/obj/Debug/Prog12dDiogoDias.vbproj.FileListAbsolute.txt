@@ -1,0 +1,13 @@
+C:\Users\diogo\source\repos\Prog12dDiogoDias\obj\Debug\Prog12dDiogoDias.vbproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\Prog12dDiogoDias\obj\Debug\Prog12dDiogoDias.vbproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\source\repos\Prog12dDiogoDias\obj\Debug\Prog12dDiogoDias.Form1.resources
+C:\Users\diogo\source\repos\Prog12dDiogoDias\obj\Debug\Prog12dDiogoDias.Resources.resources
+C:\Users\diogo\source\repos\Prog12dDiogoDias\obj\Debug\Prog12dDiogoDias.vbproj.GenerateResource.cache
+C:\Users\diogo\source\repos\Prog12dDiogoDias\obj\Debug\Prog12dDiogoDias.vbproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\Prog12dDiogoDias\bin\Debug\Prog12dDiogoDias.exe.config
+C:\Users\diogo\source\repos\Prog12dDiogoDias\bin\Debug\Prog12dDiogoDias.exe
+C:\Users\diogo\source\repos\Prog12dDiogoDias\bin\Debug\Prog12dDiogoDias.pdb
+C:\Users\diogo\source\repos\Prog12dDiogoDias\bin\Debug\Prog12dDiogoDias.xml
+C:\Users\diogo\source\repos\Prog12dDiogoDias\obj\Debug\Prog12dDiogoDias.exe
+C:\Users\diogo\source\repos\Prog12dDiogoDias\obj\Debug\Prog12dDiogoDias.xml
+C:\Users\diogo\source\repos\Prog12dDiogoDias\obj\Debug\Prog12dDiogoDias.pdb

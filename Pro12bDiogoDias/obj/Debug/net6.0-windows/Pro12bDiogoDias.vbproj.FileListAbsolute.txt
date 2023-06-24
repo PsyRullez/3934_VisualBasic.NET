@@ -1,0 +1,34 @@
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.vbproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.Form1.resources
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.vbproj.GenerateResource.cache
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.AssemblyInfoInputs.cache
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.AssemblyInfo.vb
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.vbproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\Pro12bDiogoDias\bin\Debug\net6.0-windows\Pro12bDiogoDias.exe
+C:\Users\diogo\source\repos\Pro12bDiogoDias\bin\Debug\net6.0-windows\Pro12bDiogoDias.deps.json
+C:\Users\diogo\source\repos\Pro12bDiogoDias\bin\Debug\net6.0-windows\Pro12bDiogoDias.runtimeconfig.json
+C:\Users\diogo\source\repos\Pro12bDiogoDias\bin\Debug\net6.0-windows\Pro12bDiogoDias.dll
+C:\Users\diogo\source\repos\Pro12bDiogoDias\bin\Debug\net6.0-windows\Pro12bDiogoDias.pdb
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.dll
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\refint\Pro12bDiogoDias.dll
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.pdb
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.genruntimeconfig.cache
+C:\Users\diogo\source\repos\Pro12bDiogoDias\obj\Debug\net6.0-windows\ref\Pro12bDiogoDias.dll
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.vbproj.AssemblyReference.cache
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.Form1.resources
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.vbproj.GenerateResource.cache
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.GeneratedMSBuildEditorConfig.editorconfig
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.AssemblyInfoInputs.cache
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.AssemblyInfo.vb
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.vbproj.CoreCompileInputs.cache
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.dll
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\refint\Pro12bDiogoDias.dll
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.pdb
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\bin\Debug\net6.0-windows\Pro12bDiogoDias.exe
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\bin\Debug\net6.0-windows\Pro12bDiogoDias.deps.json
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\bin\Debug\net6.0-windows\Pro12bDiogoDias.runtimeconfig.json
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\bin\Debug\net6.0-windows\Pro12bDiogoDias.dll
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\bin\Debug\net6.0-windows\Pro12bDiogoDias.pdb
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\Pro12bDiogoDias.genruntimeconfig.cache
+D:\EISNT\3934 Programação em Visual Basic.NET\Pro12bDiogoDias\obj\Debug\net6.0-windows\ref\Pro12bDiogoDias.dll
