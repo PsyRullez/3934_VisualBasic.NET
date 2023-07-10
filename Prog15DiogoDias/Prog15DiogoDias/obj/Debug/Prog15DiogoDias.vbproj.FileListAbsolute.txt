@@ -1,0 +1,13 @@
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\bin\Debug\Prog15DiogoDias.exe.config
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\bin\Debug\Prog15DiogoDias.exe
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\bin\Debug\Prog15DiogoDias.pdb
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\bin\Debug\Prog15DiogoDias.xml
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\obj\Debug\Prog15DiogoDias.vbproj.AssemblyReference.cache
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\obj\Debug\Prog15DiogoDias.vbproj.SuggestedBindingRedirects.cache
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\obj\Debug\Prog15DiogoDias.Form1.resources
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\obj\Debug\Prog15DiogoDias.Resources.resources
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\obj\Debug\Prog15DiogoDias.vbproj.GenerateResource.cache
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\obj\Debug\Prog15DiogoDias.vbproj.CoreCompileInputs.cache
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\obj\Debug\Prog15DiogoDias.exe
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\obj\Debug\Prog15DiogoDias.xml
+C:\Users\EISnt\source\repos\Prog15DiogoDias\Prog15DiogoDias\obj\Debug\Prog15DiogoDias.pdb
