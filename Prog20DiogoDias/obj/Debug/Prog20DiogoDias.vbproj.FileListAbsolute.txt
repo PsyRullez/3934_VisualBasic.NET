@@ -1,0 +1,12 @@
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\bin\Debug\Prog20DiogoDias.exe.config
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\bin\Debug\Prog20DiogoDias.exe
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\bin\Debug\Prog20DiogoDias.pdb
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\bin\Debug\Prog20DiogoDias.xml
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\obj\Debug\Prog20DiogoDias.vbproj.AssemblyReference.cache
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\obj\Debug\Prog20DiogoDias.Form1.resources
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\obj\Debug\Prog20DiogoDias.Resources.resources
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\obj\Debug\Prog20DiogoDias.vbproj.GenerateResource.cache
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\obj\Debug\Prog20DiogoDias.vbproj.CoreCompileInputs.cache
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\obj\Debug\Prog20DiogoDias.exe
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\obj\Debug\Prog20DiogoDias.xml
+C:\Users\Aprendizagem\source\repos\Prog20DiogoDias\obj\Debug\Prog20DiogoDias.pdb
