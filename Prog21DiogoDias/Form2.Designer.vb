@@ -72,7 +72,6 @@ Partial Class Signin
         Me.TxtRUser.Name = "TxtRUser"
         Me.TxtRUser.Size = New System.Drawing.Size(456, 20)
         Me.TxtRUser.TabIndex = 7
-        Me.TxtRUser.Text = "Field for Username"
         Me.TxtRUser.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TxtRPW
@@ -82,7 +81,6 @@ Partial Class Signin
         Me.TxtRPW.Name = "TxtRPW"
         Me.TxtRPW.Size = New System.Drawing.Size(456, 20)
         Me.TxtRPW.TabIndex = 6
-        Me.TxtRPW.Text = "Field for Password"
         Me.TxtRPW.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'LblPNumber
@@ -112,7 +110,6 @@ Partial Class Signin
         Me.TxtREmail.Name = "TxtREmail"
         Me.TxtREmail.Size = New System.Drawing.Size(456, 20)
         Me.TxtREmail.TabIndex = 12
-        Me.TxtREmail.Text = "Field for Email"
         Me.TxtREmail.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TxtRPNumber
@@ -122,7 +119,6 @@ Partial Class Signin
         Me.TxtRPNumber.Name = "TxtRPNumber"
         Me.TxtRPNumber.Size = New System.Drawing.Size(456, 20)
         Me.TxtRPNumber.TabIndex = 11
-        Me.TxtRPNumber.Text = "Field for Phone Number"
         Me.TxtRPNumber.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'BtnSignIn

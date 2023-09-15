@@ -38,7 +38,6 @@ Partial Class Login
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(456, 20)
         Me.TextBox2.TabIndex = 1
-        Me.TextBox2.Text = "Field for Password"
         Me.TextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'TextBox1
@@ -48,7 +47,6 @@ Partial Class Login
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(456, 20)
         Me.TextBox1.TabIndex = 2
-        Me.TextBox1.Text = "Field for Username"
         Me.TextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'LblLogin
