@@ -1,0 +1,13 @@
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\obj\Debug\Prog22DiogoDias.vbproj.AssemblyReference.cache
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\obj\Debug\Prog22DiogoDias.Prog22DiogoDias.resources
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\obj\Debug\Prog22DiogoDias.Resources.resources
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\obj\Debug\Prog22DiogoDias.vbproj.GenerateResource.cache
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\obj\Debug\Prog22DiogoDias.vbproj.CoreCompileInputs.cache
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\bin\Debug\Prog22DiogoDias.exe.config
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\bin\Debug\Prog22DiogoDias.exe
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\bin\Debug\Prog22DiogoDias.pdb
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\bin\Debug\Prog22DiogoDias.xml
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\obj\Debug\Prog22DiogoDias.exe
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\obj\Debug\Prog22DiogoDias.xml
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\obj\Debug\Prog22DiogoDias.pdb
+C:\Users\Aprendizagem\source\repos\Prog22DiogoDias\bin\Debug\db_TicTacToe.accdb
